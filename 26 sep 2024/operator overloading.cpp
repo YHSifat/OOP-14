@@ -9,6 +9,7 @@ public:
         this->j=j;
         this->k=k;
     }
+    
     Vec operator+(Vec &sec_vec){
         Vec result_vec;
  
